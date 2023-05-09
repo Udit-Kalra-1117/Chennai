@@ -12,18 +12,6 @@ The steps undertaken for prediciting a house price in a particular area in Chenn
 
   **3. Encoding the Data:** The two methods of encoding the data used are One-Hot Encoder and Label Encoder. After encoding and finding the relationship between the columns the least relatable columns or the negligibly affecting columns were removed.
 
-  **4. Scaling the Data:** The data points were fiited into training and testing sets by scaling them in three different ways viz., 
- 
-          1. Normal scaling. 
-          2. Min-Max Scaling. 
-          3. Standard Scaling.
+  **4. Scaling the Data:** The data points were fiited into training and testing sets by scaling them in three different ways viz.; Normal scaling, Min-Max Scaling and Standard Scaling.
 
-  **5. Prediciting the Prices:** The Machine Learning models used for predicting the house prices are:
-          1. Linear Regression
-          2. KNN
-          3. Decision Tree
-          4. Random Forest
-          5. Extra Tree Regressor
-          6. Gradient Boosting Regressor
-          7. XG Boost Regressor
-          8. Voting Regressor
+  **5. Prediciting the Prices:** The Machine Learning models used for predicting the house prices are; Linear Regression, KNN, Decision Tree, Random Forest, Extra Tree Regressor, Gradient Boosting Regressor, XG Boost Regressor and Voting Regressor
