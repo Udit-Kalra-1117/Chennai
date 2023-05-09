@@ -13,6 +13,7 @@ The steps undertaken for prediciting a house price in a particular area in Chenn
   **3. Encoding the Data:** The two methods of encoding the data used are One-Hot Encoder and Label Encoder. After encoding and finding the relationship between the columns the least relatable columns or the negligibly affecting columns were removed.
 
   **4. Scaling the Data:** The data points were fiited into training and testing sets by scaling them in three different ways viz., 
+ 
           1. Normal scaling. 
           2. Min-Max Scaling. 
           3. Standard Scaling.
